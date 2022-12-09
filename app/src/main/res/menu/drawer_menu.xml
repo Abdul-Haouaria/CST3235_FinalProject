@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/drawerHome"
+        android:title="Home Page"
+        android:icon="@drawable/home_icon"
+        android:orderInCategory="70"/>
+    <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+    <item
+        android:id="@+id/drawerResults"
+        android:orderInCategory="75"
+        android:icon="@drawable/football_icon"
+        android:title="Matches"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/drawerFavourites"
+        android:orderInCategory="80"
+        android:icon="@drawable/favourite_icon"
+        android:title="Favourites"
+        app:showAsAction="ifRoom" />
+
+</menu>

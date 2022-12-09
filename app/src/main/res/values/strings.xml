@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Soccer Match Highlights</string>
+    <string name="SendToEmailButton">Send</string>
+    <string name="EmailSenderHeader">Send the highlights to your e-mail: </string>
+    <string name="categoryHeader">Category: </string>
+    <string name="help">Help</string>
+    <string name="search_result_help">This is your search results,
+                                    tap on any match to take you to the details,
+                                    you can go to your favourites by clicking on the icon
+                                    in the toolbar or the navigation drawer.</string>
+    <string name="search_help">This is your search page.</string>
+    <string name="not_fetched">Error: Data is not fetched</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="search">Search</string>
+    <string name="enter_area">enter Area</string>
+    <string name="search_area">Enter an area to find recipes</string>
+    <string name="subtitleHamza">Search Page</string>
+    <string name="textOnSearchBar">Search for matches..</string>
+    <string name="subtitleMajeed">Search Results</string>
+    <string name="subtitleNatalia">Recipe</string>
+    <string name="subtitleCaner">Favorites</string>
+    <string name="homeItem">You clicked on home</string>
+    <string name ="cookItem">You clicked on cook</string>
+    <string name="favoriteItem">You clicked on favourites</string>
+    <string name="helpItem">You clicked on help</string>
+    <string name="weFound">We found </string>
+    <string name="results"> results</string>
+    <string name="dataNotFetched">Data not fetched</string>
+    <string name="matchDetails">Match details: </string>
+    <string name="emailWasSent">Email was sent</string>
+    <string name="emailWasNOTSent">Email was not sent</string>
+    <string name="recipes">Recipes</string>
+    <string name="makeChoice">Make a choice</string>
+    <string name="detailsOrRemove">Do you want to see the details or remove from favorites?</string>
+    <string name="seeDetails">See Details</string>
+    <string name="removeItem">Remove</string>
+    <string name="search_example">eg. canadian / french / italian / greek</string>
+</resources>
